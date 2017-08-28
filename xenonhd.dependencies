@@ -2,7 +2,7 @@
   {
     "repository": "TeamHorizon/android_kernel_samsung_fortunaxx",
     "target_path": "kernel/samsung/fortunaxx",
-    "branch": "cm-14.1"
+    "branch": "n"
   },
   {
     "repository": "TeamHorizon/android_vendor_samsung_fortuna3g",
@@ -12,12 +12,12 @@
   {
     "repository": "TeamHorizon/android_vendor_samsung_fortunaxx-common",
     "target_path": "vendor/samsung/fortunaxx-common",
-    "branch": "cm-14.1"
+    "branch": "n"
   },
   {
     "repository": "TeamHorizon/android_device_samsung_fortunaxx-common",
     "target_path": "device/samsung/fortunaxx-common",
-    "branch": "cm-14.1"
+    "branch": "n"
   },
   {
     "repository": "LineageOS/android_device_samsung_qcom-common",
